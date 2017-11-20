@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	background-image: ;
+	background-color:;
+}
+h1{
+	font-size:25pt;
+	color: red;
+}
+nav{
+	background-color:grey;
+	top:0px;
+	position:fixed;
+	width: 100%;
+}
+nav li{
+	display:inline;
+	color: red;
+	margin-left: 20px;
+}
+.block{
+
+	margin-top: 60px;
+}
+li{
+	color: black;
+}
+a{
+	color:pink;
+}
+.block{
+	margin-top: 60px
+}
+h1{
+	color: silver;
+	text-align: left;
+
+}
+
+h2{
+	font-family: verdana;
+	sans-serif;
+	font-size:18pt;
+	color: blue;
+}
+p{
+	font-family: verdana 
+	sans-serif;
+	font-size:15pt;
+	color:black;
+}
